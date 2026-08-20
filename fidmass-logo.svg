@@ -2,7 +2,7 @@
   <title id="title">Fidmass Fancy Fiesta logo</title>
   <desc id="desc">A refined purple wordmark with a gold gift bow and celebration sparkle.</desc>
   <rect width="1200" height="360" fill="none"/>
-  <g fill="none" stroke="#C69A3A" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+  <g fill="none" stroke="#C69A3A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
     <path d="M57 234h170M70 218l14-111 45 43 26-72 26 72 45-43 14 111z"/>
     <path d="M77 203h143"/>
   </g>
