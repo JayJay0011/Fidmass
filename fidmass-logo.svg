@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Fidmass Fancy Fiesta logo</title>
+  <desc id="desc">A refined purple wordmark with a gold gift bow and celebration sparkle.</desc>
+  <rect width="1200" height="360" fill="none"/>
+  <g fill="none" stroke="#C69A3A" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M107 168c-35-33-70-6-53 28 16 33 62 27 88-24 25 51 72 57 88 24 17-34-18-61-53-28"/>
+    <path d="M142 164v102M94 213h96"/>
+  </g>
+  <g fill="#452063">
+    <path d="M256 105l8 20 20 8-20 8-8 20-8-20-20-8 20-8z"/>
+    <path d="M1065 86l7 17 17 7-17 7-7 17-7-17-17-7 17-7z"/>
+    <text x="256" y="225" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="700" letter-spacing="-2">Fidmass Fancy Fiesta</text>
+    <text x="261" y="280" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="7">CELEBRATIONS, BEAUTIFULLY MADE</text>
+  </g>
+</svg>
